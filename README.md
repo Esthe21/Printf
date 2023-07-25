@@ -1,2 +1,1 @@
-# printf
-A group assignment
+Group Assignment - Printf
